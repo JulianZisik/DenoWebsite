@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');   
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+
+
+
+
+
+body{
+    margin: 0;
+    background-image: url(/image.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+}
+
+header{
+    margin: 0;
+    backdrop-filter: blur(3px);
+}
+
+.main-heading{ 
+    color: 	#9400d3;
+    background-color: #303030;
+    font-size: 450%;
+    font-family: Rubik Moonrocks;
+    margin: 0;
+}
+
+
+.under-headline{
+    font-family: Lobster;
+    font-size: 250%;
+}
+
+.normal-text{
+    font-family: League Gothic;
+    font-size: 150%;
+}
